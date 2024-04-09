@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AtividadeN1</string>
+    <string name="curso">Curso: Análise e Desenvolvimento de Sistemas</string>
+    <string name="menu">Ir para Menu</string>
+    <string name="matricula">Matrícula: 2022112000544</string>
+    <string name="nome">Nome: Eric Borges</string>
+    <string name="digite_uma_mensagem">Digite uma mensagem</string>
+    <string name="codificar">Codificar</string>
+    <string name="decodificar">Decodificar</string>
+    <string name="tesoura">Tesoura</string>
+    <string name="papel">Papel</string>
+    <string name="pedra">Pedra</string>
+    <string name="result">Resultado</string>
+    <string name="escolha_do_app">Escolha do App:</string>
+    <string name="insira_sua_tentativa_aqui">Insira sua tentativa aqui</string>
+    <string name="enviar_tentativa">Enviar Tentativa</string>
+    <string name="insira_um_valor">Insira um valor</string>
+    <string name="adicionar_valor">Adicionar Valor</string>
+    <string name="sortear">Sortear</string>
+    <string name="encoder_decoder">Cripstografar e Desincriptografar</string>
+    <string name="rock_paper_scissors">Pedra, Papel e Tesoura</string>
+    <string name="secret_code">Código Secreto</string>
+    <string name="randomizer">Radomizador</string>
+</resources>

@@ -1,0 +1,32 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_encoder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/encoder_decoder" />
+
+    <Button
+        android:id="@+id/btn_rps_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rock_paper_scissors" />
+
+    <Button
+        android:id="@+id/btn_secret_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/secret_code" />
+
+    <Button
+        android:id="@+id/btn_randomizer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/randomizer" />
+
+</LinearLayout>
